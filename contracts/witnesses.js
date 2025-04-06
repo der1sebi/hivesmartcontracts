@@ -1,7 +1,7 @@
 /* eslint-disable no-await-in-loop */
 /* global actions, api */
 
-const NB_APPROVALS_ALLOWED = 30;
+const NB_APPROVALS_ALLOWED = 10;
 const NB_TOP_WITNESSES = 20;
 const NB_BACKUP_WITNESSES = 1;
 const NB_WITNESSES = NB_TOP_WITNESSES + NB_BACKUP_WITNESSES;
